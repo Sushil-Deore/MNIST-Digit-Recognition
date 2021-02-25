@@ -15,3 +15,6 @@ Before the popularity of neural networks, though, models such as SVMs and booste
 We'll first explore the dataset a bit, prepare it (scale etc.) and then experiment with linear and non-linear SVMs with various hyperparameters.  
 
 We'll divide the analysis into the following parts:  Data understanding and cleaning Data preparation for model building Building an SVM model - hyperparameter tuning, model evaluation etc
+
+
+For data set: https://www.kaggle.com/c/digit-recognizer/data
